@@ -1,3 +1,9 @@
+linux-rockchip (6.1.0-1027.27+1) jammy; urgency=medium
+
+  * Set ARM64_VA_BITS to 39 to prevent certain applications from crashing.
+
+ -- HwlloChen <chen@etaris.art>  Sun, 13 Aug 2025 19:36:00 -0400
+
 linux-rockchip (6.1.0-1027.27) noble; urgency=medium
 
   * UBUNTU: Enable PPS line discipline
